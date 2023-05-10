@@ -13,4 +13,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="ClientApp\" />
+    <Folder Include="ClientApp\angularApp\src\app\components\" />
+    <Folder Include="Dictionaries\" />
+  </ItemGroup>
+
 </Project>
